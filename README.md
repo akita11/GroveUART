@@ -32,7 +32,7 @@ M5Stack等からのUART信号の出ているGroveケーブルをGroveコネク�
 - Groveの1番ピン（端）: FTDI-basicのRXD(RXi)側
 - Groveの2番ピン（その横）: FTDI-BasicのTXD(TXo)側
 
-※例えばM5Stack UnitV2では、Groveの1番ピンは"Rx”と表記されていますが、これは「接続先（M5StackBasic等)がRx」という意味ですので、UnitV2にとっては出力(TX)です。
+※例えばM5Stack UnitV2では、Groveの1番ピンは"Rx”と表記されていますが、これは「接続先(M5StackBasic等)がRx」という意味ですので、UnitV2にとっては出力(TX)です。
 
 
 ## Author
